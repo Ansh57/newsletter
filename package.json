@@ -1,0 +1,15 @@
+{
+  "name": "subscribe.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subscibe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ansh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
